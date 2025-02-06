@@ -1,3 +1,3 @@
 # lojavirtual
 
-texto alterado mo repositorio local
+texto alterado mo repositorio local (2)
